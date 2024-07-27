@@ -16,9 +16,10 @@ This feasibility study leverages the powers of Global Forest Watch (GFW) and Goo
 ## Files
 
 ### Jupyter Notebooks
-1. [ForestGuard: EUDR Deforestation Project.ipynb](ForestGuard: EUDR Deforestation Project.ipynb): This notebook provides the main analysis for the ForestGuard project, leveraging GFW and GEE to analyze deforestation alerts and their implications for compliance with EUDR.
-2. Google_Earth_Engine.ipynb: This notebook is used for interacting with Google Earth Engine, including fetching and processing satellite data, calculating NDVI, and analyzing deforestation alerts.
-3. Integrated_Alerts_Benefits.ipynb.zip: A zipped notebook that explores the benefits of integrated alerts for detecting deforestation. This analysis helps in understanding the effectiveness of different alert systems and their integration.
+1. [ForestGuard: EUDR Deforestation Project.ipynb]([ForestGuard: EUDR Deforestation Project.ipynb](https://github.com/amitasujith2/EUDR-Regulation-Feasibility-Study/blob/main/ForestGuard%3A%20EUDR%20Deforestation%20Project.ipynb): This notebook provides the main analysis for the ForestGuard project, leveraging GFW and GEE to analyze deforestation alerts and their implications for compliance with EUDR. Ths notebook contains links to all the scripts in the repository and outlines the general process flow.
+2. [Google_Earth_Engine.ipynb](https://github.com/amitasujith2/EUDR-Regulation-Feasibility-Study/blob/main/Google_Earth_Engine.ipynb): This notebook is used for interacting with Google Earth Engine, including fetching and processing satellite data, calculating NDVI, and analyzing deforestation alerts.
+3. [Integrated_Alerts_Benefits.ipynb.zip](https://github.com/amitasujith2/EUDR-Regulation-Feasibility-Study/blob/main/Integrated_Alerts_Benefits.ipynb.zip): A zipped notebook that explores the benefits of integrated alerts for detecting deforestation. This analysis helps in understanding the effectiveness of different alert systems and their integration.
+
 
 ## Installation
 
@@ -49,7 +50,9 @@ This feasibility study leverages the powers of Global Forest Watch (GFW) and Goo
 Run the dashboard:
 ```bash
 python dashboard_dash.py
+```
 
 ## LICENSE
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
