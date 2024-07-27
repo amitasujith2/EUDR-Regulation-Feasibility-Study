@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="6">
+            <LineStyle id="7">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="8">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="13">
+            <LineStyle id="14">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="15">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="20">
+            <LineStyle id="21">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="22">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="27">
+            <LineStyle id="28">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="29">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="34">
+            <LineStyle id="35">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="36">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="41">
+            <LineStyle id="42">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="43">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="48">
+            <LineStyle id="49">
+                <color>c80066cc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="50">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="55">
+            <LineStyle id="56">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="57">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="62">
+            <LineStyle id="63">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="64">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="69">
+            <LineStyle id="70">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="71">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="76">
+            <LineStyle id="77">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="78">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="83">
+            <LineStyle id="84">
+                <color>c80066cc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="85">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="90">
+            <LineStyle id="91">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="92">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="97">
+            <LineStyle id="98">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="99">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="104">
+            <LineStyle id="105">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="106">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="111">
+            <LineStyle id="112">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="113">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="118">
+            <LineStyle id="119">
+                <color>c80066cc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="120">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="125">
+            <LineStyle id="126">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="127">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="132">
+            <LineStyle id="133">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="134">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="139">
+            <LineStyle id="140">
+                <color>c800cccc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="141">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="146">
+            <LineStyle id="147">
+                <color>c80066cc</color>
+                <colorMode>normal</colorMode>
+                <width>1</width>
+            </LineStyle>
+            <PolyStyle id="148">
+                <color>ff00a5ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="3">
+            <name>John Doe</name>
+            <description>Quantity: 495
+Product Type: palm oil
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#6</styleUrl>
+            <Polygon id="2">
+                <outerBoundaryIs>
+                    <LinearRing id="4">
+                        <coordinates>-1.989049,9.622653,0.0 -2.00331,9.453884,0.0 -1.810783,9.503117,0.0 -1.989049,9.622653,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="10">
+            <name>Jane Smith</name>
+            <description>Quantity: 393
+Product Type: palm oil
+Nominal Confidence Alerts: 8
+High Confidence Alerts: 2
+Highest Confidence Alerts: 0
+Total Alerts: 10
+Overall Confidence %: 40.0
+Deforestation Driver: Shifting agriculture
+Land Cover Class: Grassland</description>
+            <styleUrl>#13</styleUrl>
+            <Polygon id="9">
+                <outerBoundaryIs>
+                    <LinearRing id="11">
+                        <coordinates>-1.433852,7.914335,0.0 -1.433852,7.719872,0.0 -1.159505,7.719872,0.0 -1.159505,7.914335,0.0 -1.433852,7.914335,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="17">
+            <name>Bob Johnson</name>
+            <description>Quantity: 713
+Product Type: cocoa
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#20</styleUrl>
+            <Polygon id="16">
+                <outerBoundaryIs>
+                    <LinearRing id="18">
+                        <coordinates>-0.855909,9.157263,0.0 -0.855909,8.975446,0.0 -0.633215,8.975446,0.0 -0.633215,9.157263,0.0 -0.855909,9.157263,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="24">
+            <name>Alice Brown</name>
+            <description>Quantity: 490
+Product Type: wood
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#27</styleUrl>
+            <Polygon id="23">
+                <outerBoundaryIs>
+                    <LinearRing id="25">
+                        <coordinates>-0.962153,8.625939,0.0 -0.897141,8.366882,0.0 -0.686993,8.573749,0.0 -0.962153,8.625939,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="31">
+            <name>David Green</name>
+            <description>Quantity: 630
+Product Type: coffee
+Nominal Confidence Alerts: 10
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 10
+Overall Confidence %: 33.33333333
+Deforestation Driver: Shifting agriculture
+Land Cover Class: Bare, Grassland</description>
+            <styleUrl>#34</styleUrl>
+            <Polygon id="30">
+                <outerBoundaryIs>
+                    <LinearRing id="32">
+                        <coordinates>0.047062,8.143985,0.0 0.047062,7.961563,0.0 0.217564,7.961563,0.0 0.217564,8.143985,0.0 0.047062,8.143985,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="38">
+            <name>Emily Black</name>
+            <description>Quantity: 826
+Product Type: cattle
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#41</styleUrl>
+            <Polygon id="37">
+                <outerBoundaryIs>
+                    <LinearRing id="39">
+                        <coordinates>-2.132527,10.329629,0.0 -2.132527,10.185655,0.0 -1.920827,10.185655,0.0 -1.920827,10.329629,0.0 -2.132527,10.329629,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="45">
+            <name>Frank Wilson</name>
+            <description>Quantity: 675
+Product Type: cocoa
+Nominal Confidence Alerts: 2328
+High Confidence Alerts: 17373
+Highest Confidence Alerts: 296
+Total Alerts: 19997
+Overall Confidence %: 63.27949192
+Deforestation Driver: Shifting agriculture
+Land Cover Class: Forest, Agriculture</description>
+            <styleUrl>#48</styleUrl>
+            <Polygon id="44">
+                <outerBoundaryIs>
+                    <LinearRing id="46">
+                        <coordinates>-1.930172,6.616057,0.0 -1.930172,6.446736,0.0 -1.786538,6.446736,0.0 -1.786538,6.616057,0.0 -1.930172,6.616057,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="52">
+            <name>Henry Scott</name>
+            <description>Quantity: 250
+Product Type: cattle
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#55</styleUrl>
+            <Polygon id="51">
+                <outerBoundaryIs>
+                    <LinearRing id="53">
+                        <coordinates>-2.194006,8.975727,0.0 -2.285305,8.768264,0.0 -2.06246,8.794401,0.0 -2.194006,8.975727,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="59">
+            <name>Irene Young</name>
+            <description>Quantity: 687
+Product Type: palm oil
+Nominal Confidence Alerts: 6071
+High Confidence Alerts: 4598
+Highest Confidence Alerts: 0
+Total Alerts: 10669
+Overall Confidence %: 47.69894086
+Deforestation Driver: Shifting agriculture, Commodity-driven deforestation
+Land Cover Class: Agriculture, Grassland</description>
+            <styleUrl>#62</styleUrl>
+            <Polygon id="58">
+                <outerBoundaryIs>
+                    <LinearRing id="60">
+                        <coordinates>-0.950303,6.105898,0.0 -0.897726,5.88269,0.0 -0.727946,6.131159,0.0 -0.950303,6.105898,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="66">
+            <name>Kelly Davis</name>
+            <description>Quantity: 526
+Product Type: wood
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#69</styleUrl>
+            <Polygon id="65">
+                <outerBoundaryIs>
+                    <LinearRing id="67">
+                        <coordinates>-1.062587,10.421276,0.0 -1.062587,10.290384,0.0 -0.917707,10.290384,0.0 -0.917707,10.421276,0.0 -1.062587,10.421276,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="73">
+            <name>Larry Hill</name>
+            <description>Quantity: 380
+Product Type: palm oil
+Nominal Confidence Alerts: 5649
+High Confidence Alerts: 5405
+Highest Confidence Alerts: 0
+Total Alerts: 11054
+Overall Confidence %: 49.63210904
+Deforestation Driver: Shifting agriculture
+Land Cover Class: Agriculture</description>
+            <styleUrl>#76</styleUrl>
+            <Polygon id="72">
+                <outerBoundaryIs>
+                    <LinearRing id="74">
+                        <coordinates>-2.323139,5.790143,0.0 -2.323669,5.513429,0.0 -2.048529,5.620146,0.0 -2.323139,5.790143,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="80">
+            <name>Monica Clark</name>
+            <description>Quantity: 534
+Product Type: cattle
+Nominal Confidence Alerts: 52
+High Confidence Alerts: 75
+Highest Confidence Alerts: 0
+Total Alerts: 127
+Overall Confidence %: 53.0183727
+Deforestation Driver: Shifting agriculture
+Land Cover Class: Forest, Agriculture</description>
+            <styleUrl>#83</styleUrl>
+            <Polygon id="79">
+                <outerBoundaryIs>
+                    <LinearRing id="81">
+                        <coordinates>-0.165271,6.924376,0.0 -0.165271,6.753368,0.0 0.058012,6.753368,0.0 0.058012,6.924376,0.0 -0.165271,6.924376,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="87">
+            <name>Nancy Adams</name>
+            <description>Quantity: 335
+Product Type: cattle
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#90</styleUrl>
+            <Polygon id="86">
+                <outerBoundaryIs>
+                    <LinearRing id="88">
+                        <coordinates>0.184663,9.168978,0.0 0.184663,9.012554,0.0 0.381874,9.012554,0.0 0.381874,9.168978,0.0 0.184663,9.168978,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="94">
+            <name>Oliver King</name>
+            <description>Quantity: 336
+Product Type: cocoa
+Nominal Confidence Alerts: 6
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 6
+Overall Confidence %: 33.33333333
+Deforestation Driver: Shifting agriculture
+Land Cover Class: Forest</description>
+            <styleUrl>#97</styleUrl>
+            <Polygon id="93">
+                <outerBoundaryIs>
+                    <LinearRing id="95">
+                        <coordinates>-0.583783,7.848165,0.0 -0.610281,7.640883,0.0 -0.387442,7.730843,0.0 -0.583783,7.848165,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="101">
+            <name>Paula Allen</name>
+            <description>Quantity: 572
+Product Type: rubber
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#104</styleUrl>
+            <Polygon id="100">
+                <outerBoundaryIs>
+                    <LinearRing id="102">
+                        <coordinates>-1.683762,10.631069,0.0 -1.723295,10.499826,0.0 -1.538244,10.539162,0.0 -1.683762,10.631069,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="108">
+            <name>Quentin Ross</name>
+            <description>Quantity: 523
+Product Type: palm oil
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#111</styleUrl>
+            <Polygon id="107">
+                <outerBoundaryIs>
+                    <LinearRing id="109">
+                        <coordinates>-1.551465,9.378131,0.0 -1.551465,9.300225,0.0 -1.393942,9.300225,0.0 -1.393942,9.378131,0.0 -1.551465,9.378131,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="115">
+            <name>Rachel Hall</name>
+            <description>Quantity: 366
+Product Type: soya
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 9
+Highest Confidence Alerts: 0
+Total Alerts: 9
+Overall Confidence %: 66.66666667
+Deforestation Driver: Shifting agriculture
+Land Cover Class: Forest</description>
+            <styleUrl>#118</styleUrl>
+            <Polygon id="114">
+                <outerBoundaryIs>
+                    <LinearRing id="116">
+                        <coordinates>-1.679901,8.934276,0.0 -1.669282,8.818869,0.0 -1.531238,8.913296,0.0 -1.679901,8.934276,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="122">
+            <name>Steve Baker</name>
+            <description>Quantity: 617
+Product Type: rubber
+Nominal Confidence Alerts: 16
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 16
+Overall Confidence %: 33.33333333
+Deforestation Driver: 0
+Land Cover Class: Forest</description>
+            <styleUrl>#125</styleUrl>
+            <Polygon id="121">
+                <outerBoundaryIs>
+                    <LinearRing id="123">
+                        <coordinates>-0.246366,7.473412,0.0 -0.246366,7.378645,0.0 -0.044609,7.378645,0.0 -0.044609,7.473412,0.0 -0.246366,7.473412,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="129">
+            <name>Uma Collins</name>
+            <description>Quantity: 613
+Product Type: cocoa
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#132</styleUrl>
+            <Polygon id="128">
+                <outerBoundaryIs>
+                    <LinearRing id="130">
+                        <coordinates>-2.263934,9.898029,0.0 -2.263934,9.824796,0.0 -2.104652,9.824796,0.0 -2.104652,9.898029,0.0 -2.263934,9.898029,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="136">
+            <name>Victor Evans</name>
+            <description>Quantity: 986
+Product Type: palm oil
+Nominal Confidence Alerts: 0
+High Confidence Alerts: 0
+Highest Confidence Alerts: 0
+Total Alerts: 0
+Overall Confidence %: 0.0
+Deforestation Driver: nan
+Land Cover Class: nan</description>
+            <styleUrl>#139</styleUrl>
+            <Polygon id="135">
+                <outerBoundaryIs>
+                    <LinearRing id="137">
+                        <coordinates>-0.724211,10.493738,0.0 -0.724211,10.368419,0.0 -0.628642,10.368419,0.0 -0.628642,10.493738,0.0 -0.724211,10.493738,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="143">
+            <name>Wendy Turner</name>
+            <description>Quantity: 217
+Product Type: rubber
+Nominal Confidence Alerts: 1797
+High Confidence Alerts: 16346
+Highest Confidence Alerts: 2832
+Total Alerts: 20975
+Overall Confidence %: 68.31148192
+Deforestation Driver: Shifting agriculture
+Land Cover Class: Forest, Agriculture, Grassland</description>
+            <styleUrl>#146</styleUrl>
+            <Polygon id="142">
+                <outerBoundaryIs>
+                    <LinearRing id="144">
+                        <coordinates>-2.858586,6.767445,0.0 -2.975392,6.630344,0.0 -2.699304,6.661986,0.0 -2.858586,6.767445,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>

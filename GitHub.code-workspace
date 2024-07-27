@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "GitHub",
+			"path": "."
+		},
+		{
+			"name": "WDPA_Jun2024_Public_shp_0",
+			"path": "../../WDPA_Jun2024_Public_shp_ghana/polygons_ghana/WDPA_Jun2024_Public_shp_0"
+		},
+		{
+			"name": "WDPA_Jun2024_Public_shp_1",
+			"path": "../../WDPA_Jun2024_Public_shp_ghana/WDPA_Jun2024_Public_shp_1"
+		},
+		{
+			"name": "WDPA_Jun2024_Public_shp_2",
+			"path": "../../WDPA_Jun2024_Public_shp_ghana/WDPA_Jun2024_Public_shp_2"
+		},
+		{
+			"name": "WDPA_WDOECM_Jul2024_Public_GHA_shp_0",
+			"path": "../../WDPA_WDOECM_Jul2024_Public_GHA_shp/WDPA_WDOECM_Jul2024_Public_GHA_shp_0"
+		},
+		{
+			"name": "WDPA_WDOECM_Jul2024_Public_GHA_shp_1",
+			"path": "../../WDPA_WDOECM_Jul2024_Public_GHA_shp/WDPA_WDOECM_Jul2024_Public_GHA_shp_1"
+		},
+		{
+			"name": "WDPA_WDOECM_Jul2024_Public_GHA_shp_2",
+			"path": "../../WDPA_WDOECM_Jul2024_Public_GHA_shp/WDPA_WDOECM_Jul2024_Public_GHA_shp_2"
+		}
+	],
+	"settings": {}
+}
