@@ -54,5 +54,5 @@ python dashboard_dash.py
 
 ## LICENSE
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/amitasujith2/EUDR-Regulation-Feasibility-Study/blob/main/LICENSE) file for more details.
 
