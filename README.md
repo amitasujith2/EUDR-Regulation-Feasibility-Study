@@ -51,6 +51,9 @@ Run the dashboard:
 ```bash
 python dashboard_dash.py
 ```
+## Project Management
+
+To view the project management updates visit [here](https://pm.ai8.io/projects/xsIycACSEe-wzz6DFGUrOQ/).
 
 ## LICENSE
 
